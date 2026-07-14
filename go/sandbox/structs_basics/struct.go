@@ -14,11 +14,11 @@ type account struct {
 var letterRunes = []rune("abcdefghkjklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789")
 
 func main() {
-	fmt.Println(rand.IntN(10))
-	str := []rune("Hello")
-	for _, ch := range string(str) {
-		fmt.Println(ch, string(ch))
-	}
+	fmt.Println(generatePassword(12))
+	// str := []rune("Hello")
+	// for _, ch := range string(str) {
+	// 	fmt.Println(ch, string(ch))
+	// }
 
 
 	login := promptData("Введите логин")
@@ -44,11 +44,15 @@ func promptData(prompt string) string {
 
 func outputPassword(acc *account) {
 	fmt.Println(acc)
-	return st
+	fmt.Println(acc.login, acc.password, acc.url)
 }
 
 
 
 func generatePassword(n int) string {
 	res := make([]rune, n)
+	for i := range res {
+		res[i] = letterRunes[rand.IntN(len(letterRunes))]
+	}
+	return string(res)
 }
