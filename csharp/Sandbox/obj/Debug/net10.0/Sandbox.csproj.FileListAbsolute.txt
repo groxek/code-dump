@@ -1,0 +1,15 @@
+/home/grox/Projects/code-dump/csharp/Sandbox/bin/Debug/net10.0/Sandbox
+/home/grox/Projects/code-dump/csharp/Sandbox/bin/Debug/net10.0/Sandbox.deps.json
+/home/grox/Projects/code-dump/csharp/Sandbox/bin/Debug/net10.0/Sandbox.runtimeconfig.json
+/home/grox/Projects/code-dump/csharp/Sandbox/bin/Debug/net10.0/Sandbox.dll
+/home/grox/Projects/code-dump/csharp/Sandbox/bin/Debug/net10.0/Sandbox.pdb
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/Sandbox.GeneratedMSBuildEditorConfig.editorconfig
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/Sandbox.AssemblyInfoInputs.cache
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/Sandbox.AssemblyInfo.cs
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/Sandbox.csproj.CoreCompileInputs.cache
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/Sandbox.sourcelink.json
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/Sandbox.dll
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/refint/Sandbox.dll
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/Sandbox.pdb
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/Sandbox.genruntimeconfig.cache
+/home/grox/Projects/code-dump/csharp/Sandbox/obj/Debug/net10.0/ref/Sandbox.dll

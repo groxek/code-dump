@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F4AIX4EjWGI=",
+  "success": true,
+  "projectFilePath": "/home/grox/Projects/code-dump/csharp/Sandbox/Sandbox.csproj",
+  "expectedPackageFiles": [
+    "/home/grox/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.9/microsoft.aspnetcore.app.ref.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
